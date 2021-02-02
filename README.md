@@ -18,7 +18,7 @@
 ---
 
 ## **Screenshots:**
-![Home_Page](screenshots/screenshot1.jpg =200x400)
-![Home_Page2](screenshots/screenshot2.jpg =200x400)
+![Home_Page](screenshots/screenshot1.jpg)
+![Home_Page2](screenshots/screenshot2.jpg)
 
 ---
